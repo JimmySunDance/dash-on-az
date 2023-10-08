@@ -12,6 +12,6 @@ app.layout = html.Div(
 
 # Run the app
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run(debug=True, port=8050)
 
 # gunicorn --bind=0.0.0.0 --timeout 600 app:server

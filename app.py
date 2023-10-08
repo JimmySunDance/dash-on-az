@@ -1,5 +1,7 @@
 from dash import Dash, html
+import flask
 
+server = flask.Flask(__name__)
 app = Dash(__name__)
 
 app.layout = html.Div(

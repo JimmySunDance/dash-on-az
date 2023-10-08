@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'JPoultenAZ'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B9E5F9D6ACA6497984BF5A195553BD33 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_78C5CFA5B2D74B0C8FFAD1EC8562D231 }}

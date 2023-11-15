@@ -51,15 +51,9 @@ app.layout = html.Main(
                         html.Div(
                             className="analysis",
                             children=[
-                                lead_card(
-                                    card_title="First key stat"
-                                ),
-                                lead_card(
-                                    card_title="Another Key stat"
-                                ),
-                                lead_card(
-                                    card_title="Final key stat"
-                                ),
+                                lead_card(card_title="First key stat"),
+                                lead_card(card_title="Another Key stat"),
+                                lead_card(card_title="Final key stat"),
                             ]
                         ),
                         html.Div(

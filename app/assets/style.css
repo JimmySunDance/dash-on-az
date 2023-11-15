@@ -1,8 +1,28 @@
+/* --color-primary: #6C9BCF;
+--color-danger: #FF0060;
+--color-success: #1B9C85;
+--color-warning: #F7D060;
+--color-white: #FFF;
+--color-info-dark: #7D8DA1;
+--color-dark: #363949;
+--color-light: rgba(132, 139, 200, 0.18);
+--color-dark-variant: #677483;
+--color-background: #F6F6F6; */
+
+/* My Color Pallet 
+Kelly green - #6CC431
+Caribbean Current - #037171
+Dark Green - #03312E
+Pomp and Power - #805D93
+Orange - #FE5F00
+
+*/
+
 :root{
-    --color-primary: #6C9BCF;
-    --color-danger: #FF0060;
-    --color-success: #1B9C85;
-    --color-warning: #F7D060;
+    --color-primary: #FE5F00;
+    --color-danger: #03312E;
+    --color-success: #805D93;
+    --color-warning: #037171;
     --color-white: #FFF;
     --color-info-dark: #7D8DA1;
     --color-dark: #363949;

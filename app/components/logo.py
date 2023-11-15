@@ -7,7 +7,7 @@ my_logo = html.Div(
             src='assets/atom.png'
         ),
         html.H1(
-            className='danger',
+            className='primary',
             children="JPoulten"
         )
     ]
